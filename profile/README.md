@@ -8,7 +8,7 @@ This is a collection of tournament management libraries and helpers:
   * [masters](https://github.com/tournament-js/masters)
   * [ffa](https://github.com/tournament-js/ffa)
   * [tiebreaker](https://github.com/tournament-js/tiebreaker)
-- [**tourney**](https://github.com/tournament-js/tourney) (base class)
+- [**tourney**](https://github.com/tournament-js/tourney)
   * [groupstage-tb](https://github.com/tournament-js/groupstage)
   * [groupstage-tb-duel](https://github.com/tournament-js/groupstage)
   * [ffa-tb](https://github.com/tournament-js/ffa)
@@ -22,7 +22,3 @@ This is a collection of tournament management libraries and helpers:
     - [subset](https://github.com/tournament-js/subset)
   * [wrappers](https://github.com/tournament-js/wrappers)
   * [typr](https://github.com/tournament-js/typr)
-
-## Status
-
-These are all the associated tournament modules and helper libraries originally written by @clux.
